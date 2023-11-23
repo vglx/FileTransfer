@@ -1,7 +1,0 @@
-train: vd1/train/images
-val: vd1/val/images
-test: vd1/test/images
-
-# nc: 1
-names: 
-  0: Violence
